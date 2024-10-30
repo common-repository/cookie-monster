@@ -1,0 +1,174 @@
+/**
+ * All of the CSS for your dashboard-specific functionality should be
+ * included in this file.
+ */
+/*
+CSS styles Admin pages
+*/
+
+.cm-left{
+	float:left;
+}
+
+#cookie-monster-wrap{
+	font-family: Helvetica, Arial, sans-serif;
+	position:relative; 
+	overflow: hidden; 
+}
+#cookie-monster-advanced,
+#cookie-monster-cpanel{
+	margin: 10px 0%; 
+	float: left; width: 98%;
+}
+#cookie-monster-submit{ 
+	margin: 10px 1%; 
+	float: left; 
+	width: 98%;
+}
+/* .cookie-monster-cpanel textarea{ width: 300px;} */
+.cpanel label{
+	display: block; 
+	width: 99%; 
+	margin-bottom: 4px; 
+	font-weight: bold;
+}
+.cpanel span{ 
+	font-style: italic; 
+	font-weight: normal;
+}
+.cpanel input[type="text"]{
+	margin-bottom: 15px; 
+	margin-right: 10px;
+}
+.cpanel input[type="radio"]{
+	margin-bottom: 15px; 
+	margin-right: 10px;
+}
+.cpanel select{
+	margin-bottom: 10px;
+}
+.cpanel label p {
+	font-weight: normal !important; 
+	color: #898989;
+}
+
+#cookie_monster_info_url{ width: 275px;}
+.cookie-monster-updated{ 
+	padding: 0 .6em; 
+	background-color: #ffffe0;	
+	border: 1px solid #e6db55; 
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	border-width: 1px;
+	border-style: solid;
+}
+.cookie-monster-updated p{ 
+	padding: 2px; 
+	margin: .5em 0;
+}
+#cookie-monster-logo{ 
+	position: absolute; 
+	bottom: 0px; 
+	right: 0px;
+}
+#cookie-monster-logo .ballon{ float: left;
+	position:relative;
+	padding: 15px;
+	/* margin: 1em 0 3em; */
+	border: 5px solid #3785f2;
+	color: #333;
+	background: #fff;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	margin-right: 50px;
+	color: #898989;
+}
+.ballon.right {
+	margin-right: 30px;
+}
+.ballon.right:before {
+	top: 10px;
+	bottom: auto;
+	left: auto;
+	right: -30px;
+	border-width: 15px 0 15px 30px;
+	border-color: transparent #3785f2;
+}
+.ballon:before {
+	content: "";
+	position: absolute;
+	bottom: -20px;
+	left: 40px;
+	border-width: 20px 20px 0;
+	border-style: solid;
+	border-color: #3785f2 transparent;
+	display: block;
+	width: 0;
+}
+.ballon.right:after {
+	top: 16px;
+	bottom: auto;
+	left: auto;
+	right: -21px;
+	border-width: 9px 0 9px 21px;
+	border-color: transparent #fff;
+}
+.ballon:after {
+	content: "";
+	position: absolute;
+	bottom: -13px;
+	left: 47px;
+	border-width: 13px 13px 0;
+	border-style: solid;
+	border-color: #fff transparent;
+	display: block;
+	width: 0;
+}
+#cookie-monster-logo .logo{ float: right; }
+
+
+.clear{
+	clear:both;
+}
+.alert_type ul{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-weight: inherit;
+	font-style: inherit;
+	font-size: 100%;
+	font-family: inherit;
+	vertical-align: baseline;
+}
+.alert_type li{
+	float: left;
+	margin-right: 0%;
+	width: 31%;
+	padding: 1%;
+}
+
+.language-box{
+	float: left;
+	width: 31%;
+	margin: 0 2% 0 0;
+}
+
+#config-texts,
+#config-display,
+#config-advanced{
+	display: none;
+	/*
+	opacity:0;
+  	transition:opacity 1s linear;*
+  	*/
+}
+
+#config-texts.selected,
+#config-display.selected,
+#config-advanced.selected{
+	display: block;
+	/* opacity:1; */
+	
+}

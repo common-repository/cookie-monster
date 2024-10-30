@@ -1,0 +1,125 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: cookie-monster\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: OhayoWeb <info@ohayoweb.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 1.5.4\n"
+"Language: es_ES\n"
+
+msgid "Cookie Monster"
+msgstr ""
+
+# Admin
+msgid "Updated!"
+msgstr ""
+
+msgid "Opps... something happens!"
+msgstr ""
+
+msgid "We are using the following cookies"
+msgstr ""
+
+# Admin / Partials / admin display
+msgid "Is Cookie Monster running?"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "Configuration"
+msgstr ""
+
+msgid "Texts & Languages"
+msgstr ""
+
+msgid "Display"
+msgstr ""
+
+msgid "Advanced"
+msgstr ""
+
+msgid "Advanced Setup"
+msgstr ""
+
+msgid "Custom Style Sheet"
+msgstr ""
+
+msgid "Hide user interface"
+msgstr ""
+
+msgid "show for"
+msgstr ""
+
+msgid "seconds"
+msgstr ""
+
+msgid "Custom Display"
+msgstr ""
+
+msgid "Show to logged users"
+msgstr ""
+
+msgid "Position"
+msgstr ""
+
+msgid "Top"
+msgstr ""
+
+msgid "Bottom"
+msgstr ""
+
+msgid "Corner"
+msgstr ""
+
+msgid "Background Color"
+msgstr ""
+
+msgid "Font Color"
+msgstr ""
+
+msgid "Background Color for Accept Button"
+msgstr ""
+
+msgid "Font Color for Accept Button"
+msgstr ""
+
+msgid "Background Color for Info Button"
+msgstr ""
+
+msgid "Font Color for Info Button"
+msgstr ""
+
+msgid "Opacity"
+msgstr ""
+
+msgid "None"
+msgstr ""
+
+msgid "Texts"
+msgstr ""
+
+msgid "Message"
+msgstr ""
+
+msgid "Text for Accept Button"
+msgstr ""
+
+msgid "Text for More Info Button"
+msgstr ""
+
+msgid "More Info Page Destination"
+msgstr ""
+
+msgid "Languages from WPML"
+msgstr ""
+
+msgid "Close"
+msgstr ""

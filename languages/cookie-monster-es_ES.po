@@ -1,0 +1,125 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: cookie-monster\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: OhayoWeb <info@ohayoweb.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 1.5.4\n"
+"Language: es_ES\n"
+
+msgid "Cookie Monster"
+msgstr ""
+
+# Admin
+msgid "Updated!"
+msgstr "Actualizado!"
+
+msgid "Opps... something happens!"
+msgstr "Uppps, la configuración no fue modificada."
+
+msgid "We are using the following cookies"
+msgstr "Estamos utilizando las siguientes cookies"
+
+# Admin / Partials / admin display
+msgid "Is Cookie Monster running?"
+msgstr "¿Esta funcionando Cookie Monster?"
+
+msgid "No"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "Configuration"
+msgstr "Configuración"
+
+msgid "Texts & Languages"
+msgstr "Textos e Idiomas"
+
+msgid "Display"
+msgstr "Visualización"
+
+msgid "Advanced"
+msgstr "Avanzado"
+
+msgid "Advanced Setup"
+msgstr "Configuración avanzada"
+
+msgid "Custom Style Sheet"
+msgstr "Hoja de estilo personalizada"
+
+msgid "Hide user interface"
+msgstr "Ocultar interfaz de usuario"
+
+msgid "show for"
+msgstr "mostrar durante"
+
+msgid "seconds"
+msgstr "segundos"
+
+msgid "Custom Display"
+msgstr "Visualización personalizada"
+
+msgid "Show to logged users"
+msgstr "Mostrar a los usuarios registrados"
+
+msgid "Position"
+msgstr "Posición"
+
+msgid "Top"
+msgstr "Superior"
+
+msgid "Bottom"
+msgstr "Abajo"
+
+msgid "Corner"
+msgstr "Esquina"
+
+msgid "Background Color"
+msgstr "Color de Fondo"
+
+msgid "Font Color"
+msgstr "Color de la fuente"
+
+msgid "Background Color for Accept Button"
+msgstr "Color de fondo para el botón de Aceptar"
+
+msgid "Font Color for Accept Button"
+msgstr "Color de fuente para el botón Aceptar"
+
+msgid "Background Color for Info Button"
+msgstr "Color de fondo para el botón Información"
+
+msgid "Font Color for Info Button"
+msgstr "Color de fuente para el botón de Información"
+
+msgid "Opacity"
+msgstr "Opacidad"
+
+msgid "None"
+msgstr "Ninguno"
+
+msgid "Texts"
+msgstr "Textos"
+
+msgid "Message"
+msgstr "Mensaje"
+
+msgid "Text for Accept Button"
+msgstr "Texto para el botón de Aceptar"
+
+msgid "Text for More Info Button"
+msgstr "Texto para el botón de Información"
+
+msgid "More Info Page Destination"
+msgstr "Página destino para el botón de Información"
+
+msgid "Languages from WPML"
+msgstr "Idiomas de WPML"
+
+msgid "Close"
+msgstr "Cerrar"

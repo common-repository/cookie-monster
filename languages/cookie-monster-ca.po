@@ -1,0 +1,125 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: cookie-monster\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: OhayoWeb <info@ohayoweb.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 1.5.4\n"
+"Language: es_ES\n"
+
+msgid "Cookie Monster"
+msgstr ""
+
+# Admin
+msgid "Updated!"
+msgstr "Actualizado!"
+
+msgid "Opps... something happens!"
+msgstr "Uppps, la configuración no fue modificada."
+
+msgid "We are using the following cookies"
+msgstr "Estem utilitzant les galetes"
+
+# Admin / Partials / admin display
+msgid "Is Cookie Monster running?"
+msgstr "¿Està funcionant el Cookie Monster?"
+
+msgid "No"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "Configuration"
+msgstr "Configuració"
+
+msgid "Texts & Languages"
+msgstr "Textos i Idiomes"
+
+msgid "Display"
+msgstr "Visualització"
+
+msgid "Advanced"
+msgstr "Avançat"
+
+msgid "Advanced Setup"
+msgstr "Configuració avançada"
+
+msgid "Custom Style Sheet"
+msgstr "Full d'estil personalitzat"
+
+msgid "Hide user interface"
+msgstr "Ocultar interfície d'usuari"
+
+msgid "show for"
+msgstr "mostrar durant"
+
+msgid "seconds"
+msgstr "segons"
+
+msgid "Custom Display"
+msgstr "Visualització personalitzada"
+
+msgid "Show to logged users"
+msgstr "Mostrar als usuaris registrats"
+
+msgid "Position"
+msgstr "Posició"
+
+msgid "Top"
+msgstr "A dalt"
+
+msgid "Bottom"
+msgstr "Al peu"
+
+msgid "Corner"
+msgstr "Cantonada"
+
+msgid "Background Color"
+msgstr "Color de fons"
+
+msgid "Font Color"
+msgstr "Color de font"
+
+msgid "Background Color for Accept Button"
+msgstr "Color de fons per al botó Acceptar"
+
+msgid "Font Color for Accept Button"
+msgstr "Color de font per al botó Acceptar"
+
+msgid "Background Color for Info Button"
+msgstr "Color de fons per al botó d'informació"
+
+msgid "Font Color for Info Button"
+msgstr "Color de font per al botó d'Informació"
+
+msgid "Opacity"
+msgstr "Opacitat"
+
+msgid "None"
+msgstr "Cap"
+
+msgid "Texts"
+msgstr "Textos"
+
+msgid "Message"
+msgstr "Missatge"
+
+msgid "Text for Accept Button"
+msgstr "Text pel botó d'Acceptar"
+
+msgid "Text for More Info Button"
+msgstr "Text pel botó d'Informació"
+
+msgid "More Info Page Destination"
+msgstr "Destinació del botó d'Informació"
+
+msgid "Languages from WPML"
+msgstr "Idiomes de WPML"
+
+msgid "Close"
+msgstr "Tancar"
